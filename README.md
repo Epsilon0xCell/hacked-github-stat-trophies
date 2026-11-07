@@ -1,3 +1,7 @@
+![hacked-github-stat-trophies banner: a burgundy certificate sheet with a row of gold foil trophy cups in a line, the last cup on a raised hidden shelf glowing brighter than the rest with an emerald seal beside it, cream border, flat embossed gold foil shapes](banner.png)
+
+<p align="center"><img src="logo.png" alt="hacked-github-stat-trophies logo: a trophy cup pressed in embossed gold foil on deep burgundy paper, a small emerald star sealed above its rim like a secret rank mark, cream border line" width="200"></p>
+
 # Quick Start Guide
 This "hacked" version allows you to automatically unlock the "AllSuperRank" and "MultipleLang" secret trophies.
 
